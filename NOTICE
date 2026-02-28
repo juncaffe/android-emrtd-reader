@@ -1,0 +1,9 @@
+Android eMRTD Reader
+Copyright 2026 JunCaffe
+
+This project is an independent implementation of electronic Machine Readable
+Travel Document (eMRTD) reading and verification features, based on ICAO Doc 9303.
+
+This product includes software developed by The Legion of the Bouncy Castle Inc.
+(https://www.bouncycastle.org), licensed under the Bouncy Castle License
+(an MIT-style license). See LICENSES/LICENSE.BOUNCYCASTLE.md.
